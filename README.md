@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a third-year Computer Science and Artificial Intelligence student at **Vishwakarma Institute of Technology (VIT), Pune**, interested in building practical AI systems that bridge machine learning research and real-world applications.
 
