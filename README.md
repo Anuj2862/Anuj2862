@@ -32,9 +32,9 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🎯 Internships
+###  Internships
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 </tr>
 </table>
 
-### 🏗️ Industry Projects
+###  Industry Projects
 
 <table>
 <tr>
@@ -158,7 +158,7 @@ A gesture-controlled robotic rover combining computer vision and deep learning w
 
 ---
 
-## 🧰 Technical Arsenal
+##  Technical Arsenal
 
 <table>
 <tr>
@@ -211,13 +211,20 @@ A gesture-controlled robotic rover combining computer vision and deep learning w
 
 ---
 
-## 🏆 Achievements & Highlights
 
-- 🥇 **Top 10 — SOLIDWORKS AI Hackathon, IIT Madras**
-- 🚀 **Mumbai Hacks 2025 — Round 2 selection**
-- 📄 **ICICC 2026 — Research paper submitted**
-- 🧪 Built projects across machine learning, computer vision, robotics, Generative AI, and cybersecurity.
+### 🚀 Hackathons & Competitions
 
+- 🥇 **Top 10 Finish** — SOLIDWORKS AI Challenge, IIT Madras.
+- 🏅 **Top 6 Finish** — Fugacity ML Challenge, IIT Kharagpur.
+- 🚀 **Semi-Finalist** — IIT Hyderabad Hackathon.
+- 🎯 **Finalist** — Mumbai Hacks 2025, with **FinBuddy AI**, an AI-powered financial assistance project.
+
+### 🔬 Research & Innovation
+
+- 📜 **South Africa Patent — IoT Mesh Project:** Patent-related innovation involving an IoT mesh system.
+- 📄 **ICICC 2026 — Research Paper Submission:** Research work related to the gesture-controlled robotic rover, combining deep learning and computer vision.
+- 🧪 **Applied AI Research:** Exploring machine learning, adaptive AutoML pipelines, explainable AI, and Generative AI through practical implementations and experimentation.
+- 🧠 **Deep Learning & Computer Vision Research:** Research-oriented work involving deep learning models, computer vision, gesture recognition, and intelligent robotic systems.
 ---
 
 <div align="center">
@@ -234,6 +241,6 @@ I'm interested in collaborating on AI/ML projects, applied research, hackathons,
 
 <div align="center">
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!** 
 
 </div>
