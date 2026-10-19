@@ -43,7 +43,7 @@ My work spans deep learning, computer vision, Generative AI, RAG systems, intell
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -100,7 +100,7 @@ An offline-oriented voice-command project exploring voice-driven computer intera
 
 </div>
 
-### 🔎 More Projects
+### More Projects
 
 | Project | Overview |
 |---|---|
@@ -111,7 +111,7 @@ An offline-oriented voice-command project exploring voice-driven computer intera
 
 ---
 
-## 🧰 Technical Arsenal
+## Technical Arsenal
 
 <table>
 <tr>
@@ -164,7 +164,7 @@ An offline-oriented voice-command project exploring voice-driven computer intera
 
 ---
 
-## 💼 Experience & Research
+##  Experience & Research
 
 | Organization / Area | Focus |
 |---|---|
