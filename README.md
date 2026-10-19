@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=Anuj%20Gardi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=58&descColor=E2F3F8" width="100%" alt="Anuj Gardi — AI/ML Engineer" />
 
@@ -26,13 +26,59 @@
 
 ## About Me
 
-
-
 I'm a third-year Computer Science and Artificial Intelligence student passionate about building practical, intelligent systems that bridge machine learning research and real-world applications. My work spans **Machine Learning, Deep Learning, Computer Vision, Generative AI, RAG, and Agentic AI**, with hands-on experience developing AI-powered applications, adaptive ML pipelines, voice interfaces, cybersecurity solutions, and computer-vision-driven robotics. I enjoy translating ideas into working systems through experimentation, model development, backend integration, and testing, while continuously strengthening my understanding of AI engineering and applied research. Through projects and hackathons, I aim to build solutions that combine technical depth with practical impact, reliability, and usability.
 
 📍 **Pune, Maharashtra, India** · **Vishwakarma Institute of Technology (VIT), Pune**
 
-> My goal is to build AI systems that are not only technically interesting, but also useful, reliable, and accessible.
+---
+
+## 💼 Professional Experience
+
+### 🎯 Internships
+
+<table>
+<tr>
+<th align="left">Organization</th>
+<th align="left">Role</th>
+<th align="left">Status</th>
+</tr>
+<tr>
+<td><strong>DeepCytes Cyber Labs</strong></td>
+<td>AI Analyst Intern</td>
+<td>Current</td>
+</tr>
+<tr>
+<td><strong>FlyRank AI</strong></td>
+<td>Machine Learning Intern</td>
+<td>Completed</td>
+</tr>
+</table>
+
+### 🏗️ Industry Projects
+
+<table>
+<tr>
+<th align="left">Project / Organization</th>
+<th align="left">Contribution Area</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td>
+<strong>AuditTwin AI</strong><br/>
+<sub>KPSmart IT Solutions</sub>
+</td>
+<td>AI/ML Engineering · Multi-Agent Intelligence</td>
+<td>Python · Machine Learning · Multi-Agent AI</td>
+</tr>
+<tr>
+<td>
+<strong>Gesture-Controlled 4WD Robotic Rover</strong><br/>
+<sub>GearUp Technologies</sub>
+</td>
+<td>Deep Learning · Computer Vision · Robotics</td>
+<td>MobileNetV2 · MediaPipe · ESP32 · L298N · LoRa</td>
+</tr>
+</table>
 
 ---
 
@@ -105,7 +151,7 @@ A gesture-controlled robotic rover combining computer vision and deep learning w
 
 | Project | Overview |
 |---|---|
-| **SARTrace AI** | An AI project focused on synthetic-aperture-radar-related applications. [View repository →](https://github.com/Anuj2862/SARTrace-AI) |
+| **SARTrace AI** | Explainable AI SAR narrative generation with evidence tracing and an audit trail. [View repository →](https://github.com/Anuj2862/SARTrace-AI) |
 | **A²ML — Adaptive AutoML** | An adaptive, dataset-aware AutoML pipeline. [View repository →](https://github.com/Anuj2862/A2ML-Adaptive-Dataset-Aware-AutoML-Pipeline) |
 | **Offline Voice Commander** | An offline-oriented voice-command project exploring voice-driven computer interaction. [View repository →](https://github.com/Anuj2862/offline-voice-commander) |
 | **SOLIDWORKS AI Hackathon** | Project work for the SOLIDWORKS AI Hackathon at IIT Madras. [View repository →](https://github.com/Anuj2862/solidworks-ai-Hackathon) |
@@ -162,18 +208,6 @@ A gesture-controlled robotic rover combining computer vision and deep learning w
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Experience & Research
-
-| Organization / Area | Focus |
-|---|---|
-| **DeepCytes Cyber Labs** | AI Analyst Internship |
-| **FlyRank AI** | Machine Learning internship cohort |
-| **GearUp Technologies** | Gesture-controlled rover and computer-vision work |
-| **VENTEK Automation** | Engineering project experience |
-| **Research** | Deep-learning research and paper submission activity |
 
 ---
 
