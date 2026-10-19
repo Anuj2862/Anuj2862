@@ -1,4 +1,4 @@
-# Hi, I'm Anuj Gardi 👋
+# Hi, I'm Anuj Gardi 
 ### AI/ML Engineer | Deep Learning | Generative AI
 
 Computer Science and Artificial Intelligence undergraduate at Vishwakarma Institute of Technology, Pune, focused on engineering practical, high-impact intelligent systems. My work spans machine learning, deep learning, computer vision, retrieval-augmented generation (RAG), and agentic workflows.
