@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=Anuj%20Gardi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=58&descColor=E2F3F8" width="100%" alt="Anuj Gardi — AI/ML Engineer" />
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="YOUR_ACTUAL_LINKEDIN_PROFILE_URL">
+<a href="https://www.linkedin.com/in/anuj-gardi-7988a039b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -32,9 +32,9 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 
 ---
 
-##  Professional Experience
+## 💼 Professional Experience
 
-###  Internships
+### 🎯 Internships
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 </tr>
 </table>
 
-###  Industry Projects
+### 🏗️ Industry Projects
 
 <table>
 <tr>
@@ -81,28 +81,28 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 <tr>
 <td>
 <strong>Automated Robotic Welding</strong><br/>
-<sub>VENTEK Automation & Robotics</sub>
+<sub>VENTEK Automation &amp; Robotics</sub>
 </td>
-<td>Machine Learning · Reinforcement Learning · Path Planning</td>
-<td>Python · NumPy · PyTorch · Reinforcement Learning Alogrithms</td>
+<td>Machine Learning · Reinforcement Learning · Adaptive Path Planning</td>
+<td>Python · NumPy · PyTorch · Reinforcement Learning</td>
 </tr>
-
-
+</table>
 
 ---
 
-### Featured Projects
+## 🚀 Featured Projects
+
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Agent Forge
+<h3>🤖 Agent Forge</h3>
 
 An ongoing project exploring agentic AI systems and intelligent, tool-driven workflows.
 
-**Focus:** Agentic AI · LLMs · AI Engineering
+<strong>Focus:</strong> Agentic AI · LLMs · AI Engineering
 
 <a href="https://github.com/Anuj2862/Agent_Forge">
   <img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Agent Forge" />
@@ -111,14 +111,14 @@ An ongoing project exploring agentic AI systems and intelligent, tool-driven wor
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ CyberGuard SOC Automation
+<h3>🛡️ UniGuard AI</h3>
 
 An AI-assisted cybersecurity project focused on security-log analysis, phishing detection, and threat-intelligence integration.
 
-**Focus:** Cybersecurity · ML-Based Detection · SOC Automation
+<strong>Focus:</strong> Cybersecurity · ML-Based Detection · SOC Automation
 
-<a href="YOUR_CYBERGUARD_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore CyberGuard SOC Automation" />
+<a href="https://github.com/Anuj2862/UniGuard_AI">
+  <img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore UniGuard AI" />
 </a>
 
 </td>
@@ -126,11 +126,11 @@ An AI-assisted cybersecurity project focused on security-log analysis, phishing 
 <tr>
 <td width="50%" valign="top">
 
-### 💸 FinBuddy AI
+<h3>💸 FinBuddy AI</h3>
 
 An AI-powered financial-assistance project developed for the Mumbai Hacks 2025 hackathon.
 
-**Tech:** Python · FastAPI · React · Gemini API · Firebase · MongoDB
+<strong>Tech:</strong> Python · FastAPI · React · Gemini API · Firebase · MongoDB
 
 <a href="https://github.com/Anuj2862/FinBuddy-MumbaiHacks2025">
   <img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore FinBuddy AI" />
@@ -139,22 +139,25 @@ An AI-powered financial-assistance project developed for the Mumbai Hacks 2025 h
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Transformer Learning Platform
+<h3>🧠 Transformer Learning Platform</h3>
 
 An educational platform focused on understanding transformer architectures and exploring the core concepts behind modern deep learning.
 
-**Focus:** Transformers · Deep Learning · Attention Mechanisms
+<strong>Focus:</strong> Transformers · Deep Learning · Attention Mechanisms
 
-<a href="YOUR_IIT_KGP_TRANSFORMER_PROJECT_REPOSITORY_URL">
+<a href="https://github.com/HARSHALBR/Pathway">
   <img src="https://img.shields.io/badge/Explore%20Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Transformer Learning Platform" />
 </a>
 
 </td>
-
+</tr>
+</table>
 
 </div>
 
-### More Projects
+---
+
+## 📚 More Projects
 
 | Project | Overview |
 |---|---|
@@ -165,13 +168,13 @@ An educational platform focused on understanding transformer architectures and e
 
 ---
 
-##  Technical Arsenal
+## 🧰 Technical Arsenal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+<h3>🤖 AI &amp; Machine Learning</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -181,7 +184,7 @@ An educational platform focused on understanding transformer architectures and e
 <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" alt="YOLO" />
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
 
-### 🧠 Generative AI & RAG
+<h3>🧠 Generative AI &amp; RAG</h3>
 
 <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" alt="LLMs" />
 <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" alt="RAG" />
@@ -192,7 +195,7 @@ An educational platform focused on understanding transformer architectures and e
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Backend & Data
+<h3>🏗️ Backend &amp; Data</h3>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -203,7 +206,7 @@ An educational platform focused on understanding transformer architectures and e
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 
-### 💻 Engineering Tools
+<h3>💻 Engineering Tools</h3>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -218,6 +221,7 @@ An educational platform focused on understanding transformer architectures and e
 
 ---
 
+## 🏆 Hackathons & Research
 
 ### 🚀 Hackathons & Competitions
 
@@ -232,6 +236,7 @@ An educational platform focused on understanding transformer architectures and e
 - 📄 **ICICC 2026 — Research Paper Submission:** Research work related to the gesture-controlled robotic rover, combining deep learning and computer vision.
 - 🧪 **Applied AI Research:** Exploring machine learning, adaptive AutoML pipelines, explainable AI, and Generative AI through practical implementations and experimentation.
 - 🧠 **Deep Learning & Computer Vision Research:** Research-oriented work involving deep learning models, computer vision, gesture recognition, and intelligent robotic systems.
+
 ---
 
 <div align="center">
@@ -248,6 +253,6 @@ I'm interested in collaborating on AI/ML projects, applied research, hackathons,
 
 <div align="center">
 
-**Thanks for visiting my profile!** 
+**Thanks for visiting my profile!** ⭐
 
 </div>
