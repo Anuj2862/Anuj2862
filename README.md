@@ -140,19 +140,18 @@ An AI-powered financial-assistance project developed for the Mumbai Hacks 2025 h
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ Gesture-Controlled 4WD Rover
+### 🧠 Transformer Learning Platform
 
-A gesture-controlled robotic rover combining computer vision and deep learning with embedded motor control and wireless communication.
+An educational platform focused on understanding transformer architectures and exploring the core concepts behind modern deep learning.
 
-**Tech:** MobileNetV2 · MediaPipe · ESP32 · L298N · LoRa
+**Focus:** Transformers · Deep Learning · Attention Mechanisms
 
-<a href="YOUR_ROVER_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/Project%20Details-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Gesture-Controlled Rover project details" />
+<a href="YOUR_IIT_KGP_TRANSFORMER_PROJECT_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/Explore%20Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Transformer Learning Platform" />
 </a>
 
 </td>
-</tr>
-</table>
+
 
 </div>
 
