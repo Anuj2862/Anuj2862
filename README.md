@@ -80,7 +80,7 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 </tr>
 <tr>
 <td>
-<strong>WineTech Automation</strong>
+<strong>VenTek Automation</strong>
 </td>
 <td>Automation Engineering · AI/ML</td>
 <td>Update with the project's actual technologies</td>
