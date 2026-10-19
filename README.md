@@ -1,95 +1,204 @@
-# Hi, I'm Anuj Gardi 
-### AI/ML Engineer | Deep Learning | Generative AI
+ <div align="center">
 
-Computer Science and Artificial Intelligence undergraduate at Vishwakarma Institute of Technology, Pune, focused on engineering practical, high-impact intelligent systems. My work spans machine learning, deep learning, computer vision, retrieval-augmented generation (RAG), and agentic workflows.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=Anuj%20Gardi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=58&descColor=E2F3F8" width="100%" alt="Anuj Gardi — AI/ML Engineer" />
 
-- **Current Role:** AI Analyst Intern at **DeepCytes Cyber Labs, UK**
-- **Core Focus:** Deep Learning, Generative AI, RAG architectures, and multi-agent orchestration
-- **Engineering:** Building reliable AI applications, intelligent automation, and end-to-end ML pipelines
-- **Education:** B.Tech in Computer Science and Artificial Intelligence, VIT Pune
+### Building intelligent systems, one experiment at a time.
+
+*Computer Science & Artificial Intelligence Student @ VIT Pune*
+
+<a href="https://github.com/Anuj2862"><img src="https://img.shields.io/badge/GitHub-Anuj2862-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:anujgardi62@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
 
 ---
 
-## 💼 Experience & Research
+## 👋 About Me
 
-### Experience
-- **AI Analyst Intern** — **DeepCytes Cyber Labs, UK**
-  Contributing to cybersecurity analysis, threat detection, phishing simulation engines, and SOC-oriented learning workflows via the CyberCoach platform.
+I'm a third-year Computer Science and Artificial Intelligence student at **Vishwakarma Institute of Technology (VIT), Pune**, interested in building practical AI systems that bridge machine learning research and real-world applications.
 
-- **Machine Learning Intern** — **FlyRank AI**
-  Participating in the July 2026 Machine Learning internship cohort, working across data pipeline development, client-holdout model evaluation, and decision-support modeling.
+My work spans deep learning, computer vision, Generative AI, RAG systems, intelligent agents, and backend development. I enjoy taking an idea from experimentation to implementation, testing, and integration.
 
-- **Gesture-Controlled Robotic Rover** — **GearUp Technologies**
-  Engineered a 4WD rover integrating real-time computer vision, hand tracking via MediaPipe, and embedded hardware control for intuitive physical interaction.
+- 🧠 **Core interests:** Machine Learning, Deep Learning, Generative AI, and intelligent agents.
+- 🔬 **Research:** Exploring applied AI and deep-learning systems.
+- 🛠️ **Building:** AI applications, adaptive ML pipelines, voice interfaces, and computer-vision projects.
+- 🏆 **Hackathons:** Experience building under competitive, problem-driven environments.
+- 📚 **Currently strengthening:** Model development, system integration, and production-oriented AI engineering.
 
-- **Robotics & Automation** — **VENTEK Automation**
-  Contributed to robotics and automation workflows focusing on path planning, kinematics, system simulation, mathematical modelling, and physical engineering constraints.
-
-### Key Achievements & Milestones
-- **Top 10 Finalist** — SOLIDWORKS AI Hackathon, IIT Madras (part detection & counting via hybrid computer vision)
-- **Round 2 Selection** — Mumbai Hacks 2025 (FinBuddy AI multi-modal financial assistant)
-- **Conference Research Submission** — ICICC 2026 (*Submitted research on gesture-controlled robotic rover systems*)
+> My goal is to build AI systems that are not only technically interesting, but also useful, reliable, and accessible.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [FinBuddy AI](https://github.com/Anuj2862/FinBuddy-MumbaiHacks2025)
-> A voice-first financial assistant integrating financial insights, SMS analysis, receipt OCR, and multi-agent workflows for informal economies.
-- **Stack:** Python, FastAPI, MongoDB, Tesseract OCR, Groq / Gemini LLMs, Multi-Agent Architecture
+<div align="center">
 
-### 2. [Agent Forge](https://github.com/Anuj2862/Agent_Forge) *(Work in Progress)*
-> A meta-framework for automatically synthesizing, executing, evaluating, and iteratively improving task-specific AI agent architectures.
-- **Stack:** Python, FastAPI, Gemini LLM, LangGraph, Agentic AI, Pydantic
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 3. [SARTrace AI](https://github.com/Anuj2862/SARTrace-AI)
-> An explainable AI system for suspicious activity report (SAR) analysis, combining local LLMs, financial-crime heuristics, and retrieval-augmented generation.
-- **Stack:** Python, FastAPI, Ollama (Llama 3.1), ChromaDB, RAG, PostgreSQL, Streamlit
+### 💸 FinBuddy AI
 
-### 4. [Offline Voice Commander](https://github.com/Anuj2862/offline-voice-commander)
-> An offline, low-latency voice-command system combining speech recognition, semantic retrieval, and intent classification with sandboxed safety checks.
-- **Stack:** Python, Faster-Whisper, Sentence-Transformers, FAISS, WebRTC VAD, NLP
+An AI-powered financial-assistance project developed for the Mumbai Hacks 2025 hackathon.
 
-### 5. [SOLIDWORKS AI Hackathon](https://github.com/Anuj2862/solidworks-ai-Hackathon)
-> A computer vision solution for detecting, classifying, and counting mechanical assembly parts from top-down imagery, developed for the IIT Madras hackathon.
-- **Stack:** Python, PyTorch, ResNet18, OpenCV, PIL, Computer Vision
+**Tech:** Python · FastAPI · React · Gemini API · Firebase · MongoDB
 
-### 6. [A²ML — Adaptive AutoML](https://github.com/Anuj2862/A2ML-Adaptive-Dataset-Aware-AutoML-Pipeline)
-> A dataset-aware AutoML pipeline that autonomously adapts preprocessing, feature engineering, model selection, and SHAP-based explainability to tabular datasets.
-- **Stack:** Python, Scikit-learn, AutoML, SHAP, Streamlit, Machine Learning
+<a href="https://github.com/Anuj2862/FinBuddy-MumbaiHacks2025"><img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore FinBuddy AI" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ SARTrace AI
+
+An AI project focused on synthetic-aperture-radar-related applications.
+
+**Focus:** Applied AI · Machine Learning
+
+<a href="https://github.com/Anuj2862/SARTrace-AI"><img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore SARTrace AI" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ A²ML — Adaptive AutoML
+
+An adaptive, dataset-aware AutoML pipeline designed around the characteristics of the input dataset.
+
+**Focus:** Machine Learning · Automated ML · Python
+
+<a href="https://github.com/Anuj2862/A2ML-Adaptive-Dataset-Aware-AutoML-Pipeline"><img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore A2ML" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Offline Voice Commander
+
+An offline-oriented voice-command project exploring voice-driven computer interaction.
+
+**Focus:** Python · Voice Interfaces · Local Processing
+
+<a href="https://github.com/Anuj2862/offline-voice-commander"><img src="https://img.shields.io/badge/Explore%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Offline Voice Commander" /></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🔎 More Projects
+
+| Project | Overview |
+|---|---|
+| **Agent Forge** | An ongoing project exploring agentic AI systems. [View repository →](https://github.com/Anuj2862/Agent_Forge) |
+| **SOLIDWORKS AI Hackathon** | My project work for the SOLIDWORKS AI Hackathon at IIT Madras. [View repository →](https://github.com/Anuj2862/solidworks-ai-Hackathon) |
+| **Gesture-Controlled 4WD Rover** | A gesture-controlled robotics project combining computer vision and embedded hardware. |
+| **CyberGuard SOC Automation** | A cybersecurity project involving AI-assisted security-log analysis, phishing detection, and threat intelligence. |
 
 ---
 
-## 🛠 Technical Skills
+## 🧰 Technical Arsenal
 
-| Domain | Core Technologies & Competencies |
-| :--- | :--- |
-| **Languages** | Python, C++, JavaScript, SQL |
-| **Machine Learning & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, CNNs, Transfer Learning, Model Evaluation |
-| **Generative AI & Agentic Systems** | LLMs, RAG, Embeddings, Vector Search (FAISS, ChromaDB), LangGraph, Multi-Agent Systems |
-| **Computer Vision** | OpenCV, YOLO, MediaPipe, Image Classification, Object Detection |
-| **Backend & Databases** | FastAPI, Flask, REST APIs, PostgreSQL, MongoDB, MySQL |
-| **Tools & Platforms** | Git, GitHub, Docker, Streamlit, Gradio, Kaggle, Linux |
-| **DSA & Problem Solving** | Regular LeetCode practice in C++; focused on data structures, algorithmic paradigms, and complexity analysis |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+### 🧠 Generative AI & RAG
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS%20%2F%20ChromaDB-475569?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Backend & Data
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+### 💻 Engineering Tools
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux- FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience & Research
+
+| Organization / Area | Focus |
+|---|---|
+| **DeepCytes Cyber Labs** | AI Analyst Internship |
+| **FlyRank AI** | Machine Learning internship cohort |
+| **GearUp Technologies** | Gesture-controlled rover and computer-vision work |
+| **VENTEK Automation** | Engineering project experience |
+| **Research** | Deep-learning research and paper submission activity |
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 **Top 10 — SOLIDWORKS AI Hackathon, IIT Madras**
+- 🚀 **Mumbai Hacks 2025 — Round 2 selection**
+- 📄 **ICICC 2026 — Research paper submitted**
+- 🧪 Built projects across machine learning, computer vision, robotics, Generative AI, and cybersecurity.
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuj2862&show_icons=true&hide_border=true&theme=transparent" alt="Anuj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj2862&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <sub><em>Note: Language distribution reflects repository byte volume and does not reflect holistic domain expertise.</em></sub>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anuj2862&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj2862&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+
+</div>
+
+<div align="center">
+
+*Exploring. Building. Learning. Improving.*
+
+</div>
 
 ---
 
-## 📬 Connect & Collaborate
+## 🤝 Let's Connect
 
-I am always keen to discuss research ideas, collaborative open-source work, and engineering challenges across **Deep Learning, Generative AI, Computer Vision, and Applied AI Systems**.
+I'm interested in collaborating on AI/ML projects, applied research, hackathons, and engineering solutions that solve meaningful problems.
 
-- **GitHub:** [@Anuj2862](https://github.com/Anuj2862)
-- **Email:** [anujgardi62@gmail.com](mailto:anujgardi62@gmail.com)
+<div align="center">
+
+<a href="https://github.com/Anuj2862"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="mailto:anujgardi62@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
