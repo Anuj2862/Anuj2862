@@ -202,4 +202,4 @@ I'm interested in collaborating on AI/ML projects, applied research, hackathons,
 
 **Thanks for visiting my profile!** ⭐
 
-</div>\
+</div>
