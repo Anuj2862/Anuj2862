@@ -190,7 +190,7 @@ An educational platform focused on understanding transformer architectures and e
 </tr>
 </tbody>
 </table>
----
+
 
 ##  Technical Arsenal
 
