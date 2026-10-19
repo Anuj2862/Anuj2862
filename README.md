@@ -196,9 +196,6 @@ I'm interested in collaborating on AI/ML projects, applied research, hackathons,
 
 <div align="center">
 
-<a href="https://github.com/Anuj2862"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="mailto:anujgardi62@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-
 **Thanks for visiting my profile!** ⭐
 
 </div>
