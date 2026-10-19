@@ -78,6 +78,13 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 <td>Deep Learning · Computer Vision · Robotics</td>
 <td>MobileNetV2 · MediaPipe · ESP32 · L298N · LoRa</td>
 </tr>
+<tr>
+<td>
+<strong>WineTech Automation</strong>
+</td>
+<td>Automation Engineering · AI/ML</td>
+<td>Update with the project's actual technologies</td>
+</tr>
 </table>
 
 ---
