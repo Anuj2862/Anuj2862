@@ -91,7 +91,6 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 
 ---
 
-## 🚀 Featured Projects
 
 <div align="center">
 
