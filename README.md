@@ -80,12 +80,14 @@ I'm a third-year Computer Science and Artificial Intelligence student passionate
 </tr>
 <tr>
 <td>
-<strong>VenTek Automation</strong>
+<strong>Automated Robotic Welding</strong><br/>
+<sub>VENTEK Automation & Robotics</sub>
 </td>
-<td>Automation Engineering · AI/ML</td>
-<td>Update with the project's actual technologies</td>
+<td>Machine Learning · Reinforcement Learning · Path Planning</td>
+<td>Python · NumPy · PyTorch · Reinforcement Learning Alogrithms</td>
 </tr>
-</table>
+
+
 
 ---
 
