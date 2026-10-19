@@ -159,13 +159,37 @@ An educational platform focused on understanding transformer architectures and e
 
 ## 📚 More Projects
 
-| Project | Overview |
-|---|---|
-| **SARTrace AI** | Explainable AI SAR narrative generation with evidence tracing and an audit trail. [View repository →](https://github.com/Anuj2862/SARTrace-AI) |
-| **A²ML — Adaptive AutoML** | An adaptive, dataset-aware AutoML pipeline. [View repository →](https://github.com/Anuj2862/A2ML-Adaptive-Dataset-Aware-AutoML-Pipeline) |
-| **Offline Voice Commander** | An offline-oriented voice-command project exploring voice-driven computer interaction. [View repository →](https://github.com/Anuj2862/offline-voice-commander) |
-| **SOLIDWORKS AI Hackathon** | Project work for the SOLIDWORKS AI Hackathon at IIT Madras. [View repository →](https://github.com/Anuj2862/solidworks-ai-Hackathon) |
-
+<table>
+<thead>
+<tr>
+<th align="left" width="25%">Project</th>
+<th align="left" width="55%">Overview</th>
+<th align="center" width="20%">Repo Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SARTrace AI</strong></td>
+<td>Explainable AI SAR narrative generation with evidence tracing and an audit trail.</td>
+<td align="center"><a href="https://github.com/Anuj2862/SARTrace-AI">View</a></td>
+</tr>
+<tr>
+<td><strong>A²ML — Adaptive AutoML</strong></td>
+<td>An adaptive, dataset-aware AutoML pipeline.</td>
+<td align="center"><a href="https://github.com/Anuj2862/A2ML-Adaptive-Dataset-Aware-AutoML-Pipeline">View</a></td>
+</tr>
+<tr>
+<td><strong>Offline Voice Commander</strong></td>
+<td>An offline-oriented voice-command project exploring voice-driven computer interaction.</td>
+<td align="center"><a href="https://github.com/Anuj2862/offline-voice-commander">View</a></td>
+</tr>
+<tr>
+<td><strong>SOLIDWORKS AI Hackathon</strong></td>
+<td>Project work for the SOLIDWORKS AI Hackathon at IIT Madras.</td>
+<td align="center"><a href="https://github.com/Anuj2862/solidworks-ai-Hackathon">View</a></td>
+</tr>
+</tbody>
+</table>
 ---
 
 ## 🧰 Technical Arsenal
