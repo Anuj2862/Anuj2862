@@ -172,15 +172,6 @@ An offline-oriented voice-command project exploring voice-driven computer intera
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anuj2862&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj2862&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
-
-</div>
 
 <div align="center">
 
