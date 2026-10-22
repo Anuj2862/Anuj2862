@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=Anuj%20Gardi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=58&descColor=E2F3F8" width="100%" alt="Anuj Gardi — AI/ML Engineer" />
 
-### Building intelligent systems, one experiment at a time.
+### Building intelligent systems, with AI & Machine Learning.
 
 *Computer Science & Artificial Intelligence Student @ VIT Pune*
 
