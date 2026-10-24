@@ -28,7 +28,8 @@
 
 I'm a third-year Computer Science and Artificial Intelligence student passionate about building practical, intelligent systems that bridge machine learning research and real-world applications. My work spans **Machine Learning, Deep Learning, Computer Vision, Generative AI, RAG, and Agentic AI**, with hands-on experience developing AI-powered applications, adaptive ML pipelines, voice interfaces, cybersecurity solutions, and computer-vision-driven robotics. I enjoy translating ideas into working systems through experimentation, model development, backend integration, and testing, while continuously strengthening my understanding of AI engineering and applied research. Through projects and hackathons, I aim to build solutions that combine technical depth with practical impact, reliability, and usability.
 
-📍 **Pune, Maharashtra, India** · **Vishwakarma Institute of Technology (VIT), Pune**
+📍 **Pune, Maharashtra, India** 
+· **Vishwakarma Institute of Technology (VIT), Pune**
 
 ---
 
